@@ -1,1 +1,3 @@
-# DjangoAPI
+# kiwee_dashboard_api
+
+kiwee_dashboard_api DEVELOPEMENT PROJECT
