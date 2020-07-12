@@ -21,4 +21,4 @@ COPY ./src /src
 EXPOSE 8007
 CMD ["python", "manage.py", "makemigrations"]
 CMD ["python", "manage.py", "migrate"]
-CMD ["gunicorn", "-b", "0.0.0.0:8007","kiwee_dashboard_api.wsgi:application"]
+CMD ["gunicorn", "-b", "0.0.0.0:8007","dashboard_api.wsgi:application"]
