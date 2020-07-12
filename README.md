@@ -1,3 +1,3 @@
-# kiwee_dashboard_api
+# dashboard_api
 
-kiwee_dashboard_api DEVELOPEMENT PROJECT
+dashboard_api DEVELOPEMENT PROJECT
